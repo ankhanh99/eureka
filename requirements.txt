@@ -270,4 +270,4 @@ yapf==0.28.0
 yolk==0.4.3
 zict==1.0.0
 zipp==2.2.0
-zope.interface @ file:///D:/bld/zope.interface_1605096217394/work
+zope.interface
